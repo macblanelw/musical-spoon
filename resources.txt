@@ -1,0 +1,7 @@
+This tutorial is from a LinkedIn Learning tutorial: Learning Git and GitHub by Ray Villalobos
+https://www.linkedin.com/learning/learning-git-and-github-14213624/exercise-files?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=88232370
+
+The exercise files are at:
+https://github.com/linkedInLearning/learning-git-github-2421501
+
+https://git-scm.com/
