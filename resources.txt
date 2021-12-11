@@ -5,3 +5,29 @@ The exercise files are at:
 https://github.com/linkedInLearning/learning-git-github-2421501
 
 https://git-scm.com/
+
+
+
+ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=d5e91e120953c00c07fc&state=ad46c4e3-254d-446a-9699-ab12453b9e53 
+ 
+
+ 1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-macblanelw.macblanelw.org
+2. Use this code for the value of the TXT record: aa8ce7e94ebb5094f26f809fa8f1a7
+3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+
+
+Managing Projects
+    - Contributors
+    - Issues
+    - Labels
+    - Milestones
+    - Projects
+
+Syncing with GitHub
+    - Fetch
+    - Pull
+    - Clone
+    - Push
+
+  
+
